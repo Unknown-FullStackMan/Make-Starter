@@ -1,0 +1,3 @@
+com\simple\config\MyAutoConfig.class
+META-INF\spring-configuration-metadata.json
+com\simple\Entity\MyConfigEntity.class

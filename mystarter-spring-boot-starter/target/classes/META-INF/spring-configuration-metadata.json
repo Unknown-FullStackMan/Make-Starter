@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "my.com",
+      "type": "com.simple.Entity.MyConfigEntity",
+      "sourceType": "com.simple.Entity.MyConfigEntity"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.com.age",
+      "type": "java.lang.String",
+      "sourceType": "com.simple.Entity.MyConfigEntity"
+    },
+    {
+      "name": "my.com.name",
+      "type": "java.lang.String",
+      "sourceType": "com.simple.Entity.MyConfigEntity"
+    }
+  ],
+  "hints": []
+}
